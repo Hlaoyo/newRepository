@@ -13,7 +13,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/download.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
+            <state relative-caret-position="240">
               <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
             </state>
           </provider>
@@ -21,7 +21,10 @@
       </file>
     </leaf>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -36,8 +39,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="超漂亮在线音乐试听网站HTML模板" type="b2602c69:ProjectViewProjectNode" />
-              <item name="超漂亮在线音乐试听网站HTML模板" type="462c0819:PsiDirectoryNode" />
+              <item name="newRepository" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newRepository" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -81,16 +84,17 @@
       <updated>1563174202562</updated>
       <workItem from="1563174203997" duration="286000" />
       <workItem from="1563238246505" duration="90000" />
+      <workItem from="1563239905972" duration="207000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="376000" />
+    <option name="totallyTimeSpent" value="583000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -126,7 +130,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/download.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
+        <state relative-caret-position="240">
           <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
         </state>
       </provider>
