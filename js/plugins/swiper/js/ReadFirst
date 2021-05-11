@@ -1,0 +1,20 @@
+Vlad Tansky swiper 安全漏洞
+
+CNNVD编号：CNNVD-202104-687
+危害等级： 超危 
+CVE编号： CVE-2021-23370
+漏洞类型： 其他
+发布时间： 2021-04-12
+威胁类型： 远程
+更新时间： 2021-04-21
+
+Vlad Tansky swiper是Vlad Tansky开源的一个应用程序。用于移动网站，移动Web应用程序和移动本机,混合应用程序中。
+
+Swiper 6.5.1版本之前存在安全漏洞
+
+漏洞来源
+http://www.cnnvd.org.cn/web/xxk/ldxqById.tag?CNNVD=CNNVD-202104-687
+
+目前厂商已发布升级补丁以修复漏洞，补丁获取链接：
+
+https://github.com/nolimits4web/swiper/commit/9dad2739b7474f383474773d5ab898a0c29ac178
